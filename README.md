@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maximilianspitzer
-- 👀 I’m interested in python dev!
+- 👀 I’m interested in python development!
 - 🌱 I’m currently learning django & docker :)
 - 💞️ I’m looking to collaborate on improving the docker docs
 - 📫 How to reach me max@disczmusic.com
