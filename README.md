@@ -2,7 +2,7 @@
 - 👀 I’m interested in python development!
 - 🌱 I’m currently learning django & docker :)
 - 💞️ I’m looking to collaborate on improving the docker docs
-- 📫 How to reach me max@disczmusic.com
+- 📫 How to reach me: you dont 💯
 
 <!---
 maximilianspitzer/maximilianspitzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
